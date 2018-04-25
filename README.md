@@ -25,6 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](http://helpme.alcista.uk/_/rsrc/1520976287958/config/customLogo.gif)
 ```
+![Image](http://helpme.alcista.uk/_/rsrc/1520976287958/config/customLogo.gif)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
